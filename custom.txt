@@ -1,4 +1,5 @@
 software.download.prss.microsoft.com
+archive.ubuntu.com
 *.archive.ubuntu.com
 *.codmwest.com
 activision.itopsdk.com
