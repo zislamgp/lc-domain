@@ -1,3 +1,5 @@
+download.visualstudio.microsoft.com
+dotnet.microsoft.com
 software.download.prss.microsoft.com
 archive.ubuntu.com
 *.archive.ubuntu.com
